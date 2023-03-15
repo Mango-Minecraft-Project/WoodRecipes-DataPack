@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "#forge:sticks/wooden",
+      "required": false
+    },
+    "minecraft:stick"
+  ]
+}

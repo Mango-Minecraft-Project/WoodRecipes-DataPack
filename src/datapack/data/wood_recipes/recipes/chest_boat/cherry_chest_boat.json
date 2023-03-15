@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "121",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "cherry_planks\u200c"
+    },
+    "2": {
+      "tag": "c:chests/wooden"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest"
+  }
+}

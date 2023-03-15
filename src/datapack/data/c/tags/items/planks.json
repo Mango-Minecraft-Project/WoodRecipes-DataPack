@@ -1,0 +1,9 @@
+{
+  "values": [
+    {
+      "id": "#forge:logs",
+      "required": false
+    },
+    "#minecraft:planks"
+  ]
+}
