@@ -1,13 +1,13 @@
 <div align="center">
 
-# Template Data Pack
+# Wood Recipes - Data Pack
 ![][icon]  
 
 </div>
 
 ---
 
-- [Template Data Pack](#template-data-pack)
+- [Wood Recipes - Data Pack](#wood-recipes---data-pack)
   - [Gallery](#gallery)
   - [Description](#description)
   - [About Links](#about-links)
@@ -33,7 +33,7 @@ Github: [Github][github]
 MCMOD: [MC百科][mcmod]  
 Modrinth: [Modrinth][modrinth]  
 
-[icon]: https://raw.githubusercontent.com/${user-name}/${repo-name}/main/img/icon/${icon-filename}.png
+[icon]: https://raw.githubusercontent.com/Mango-Minecraft-Project/${repo-name}/main/img/icon/${icon-filename}.png
 
 [gallery-0]: https://raw.githubusercontent.com/${repo-name}/main/img/docs/0.png
 

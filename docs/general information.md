@@ -1,9 +1,9 @@
 # Name
-
+Wood Recipes - Data Pack
 
 
 # Summary
-
+Add Some Recipe About Wood.
 
 
 # License
@@ -13,10 +13,10 @@ AGPL v3.0
 
 # Links
 ## Issues Tracker
-https://github.com/${user-name}/${repo-name}/issues
+https://github.com/Mango-Minecraft-Project/WoodRecipes-DataPack/issues
 
 ## Source Code
-https://github.com/${user-name}/${repo-name}
+https://github.com/Mango-Minecraft-Project/WoodRecipes-DataPack
 
 ## Discord Invite URL
 https://discord.gg/${discord-code}
